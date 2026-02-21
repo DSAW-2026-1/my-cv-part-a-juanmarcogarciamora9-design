@@ -8,7 +8,9 @@ En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y 
 ## Parte 1: HTML
 
 ### Objetivo
-Crear la estructura de tu CV utilizando solo HTML.
+Crear la estructura de tu CV utilizando solo HTML.![Tarea1](https://github.com/user-attachments/assets/767f0bab-db71-4a9b-9a6b-51d12ff465b8)
+
+![tarea2](https://github.com/user-attachments/assets/e4b63991-5f3e-4789-bd21-e1e17d282634)
 
 ### Instrucciones
 1. Crea un archivo llamado `index.html`.

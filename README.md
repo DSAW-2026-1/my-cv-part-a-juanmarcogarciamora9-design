@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7-4AltFg)
 # Bienvenidos a la Tarea de HTML y CSS
 
 ¡Hola a todos!
@@ -7,7 +8,9 @@ En esta tarea, vamos a crear nuestra propia hoja de vida (CV) utilizando HTML y 
 ## Parte 1: HTML
 
 ### Objetivo
-Crear la estructura de tu CV utilizando solo HTML.
+Crear la estructura de tu CV utilizando solo HTML.![Tarea1](https://github.com/user-attachments/assets/767f0bab-db71-4a9b-9a6b-51d12ff465b8)
+
+![tarea2](https://github.com/user-attachments/assets/e4b63991-5f3e-4789-bd21-e1e17d282634)
 
 ### Instrucciones
 1. Crea un archivo llamado `index.html`.
